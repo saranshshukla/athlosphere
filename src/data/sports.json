@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Athletics",
+    "description": "A collection of sporting events that involve competitive running, jumping, throwing, and walking.",
+    "type": "Individual",
+    "foundedYear": "1896"
+  },
+  {
+    "name": "Badminton",
+    "description": "A racket sport played using rackets to hit a shuttlecock across a net.",
+    "type": "Individual/Doubles",
+    "foundedYear": "1934"
+  },
+  {
+    "name": "Boxing",
+    "description": "A combat sport in which two people throw punches at each other for a predetermined amount of time in a boxing ring.",
+    "type": "Individual",
+    "foundedYear": "688 BC"
+  },
+  {
+    "name": "Swimming",
+    "description": "An individual or team racing sport that requires the use of one's entire body to move through water.",
+    "type": "Individual/Team",
+    "foundedYear": "1844"
+  },
+  {
+    "name": "Wrestling",
+    "description": "A combat sport involving grappling techniques such as clinch fighting, throws, and takedowns.",
+    "type": "Individual",
+    "foundedYear": "708 BC"
+  },
+  {
+    "name": "Fencing",
+    "description": "A sport in which two competitors fight using swords, including the foil, épée, and sabre.",
+    "type": "Individual",
+    "foundedYear": "1896"
+  }
+]

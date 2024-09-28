@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Gopichand Badminton Academy",
+    "place": "Hyderabad",
+    "foundedOn": "2008",
+    "briefInfo": "A premier badminton training facility founded by Pullela Gopichand to produce world-class players.",
+    "image": "gopichand-academy.jpg",
+    "website": "https://www.gopichandacademy.com"
+  },
+  {
+    "name": "National Institute of Sports (NIS)",
+    "place": "Patiala",
+    "foundedOn": "1961",
+    "briefInfo": "The largest sports institute in Asia, providing training across various Olympic sports.",
+    "image": "nis-patiala.jpg",
+    "website": "https://www.nispatiala.com"
+  },
+  {
+    "name": "Army Sports Institute",
+    "place": "Pune",
+    "foundedOn": "2001",
+    "briefInfo": "Established to identify and nurture sporting talent within the Indian Army for global competitions.",
+    "image": "army-sports-institute.jpg",
+    "website": "https://www.armysportsinstitute.com"
+  },
+  {
+    "name": "Prakash Padukone Badminton Academy",
+    "place": "Bangalore",
+    "foundedOn": "1994",
+    "briefInfo": "A top badminton academy founded by the former All-England Champion, Prakash Padukone.",
+    "image": "prakash-padukone-academy.jpg",
+    "website": "https://www.ppba.com"
+  },
+  {
+    "name": "Tata Archery Academy",
+    "place": "Jamshedpur",
+    "foundedOn": "1996",
+    "briefInfo": "Trains young archers to compete at national and international levels with state-of-the-art facilities.",
+    "image": "tata-archery-academy.jpg",
+    "website": "https://www.tataarcheryacademy.com"
+  },
+  {
+    "name": "Lakshya Shooting Club",
+    "place": "Pune",
+    "foundedOn": "2006",
+    "briefInfo": "One of the leading shooting academies in India, producing international-level marksmen.",
+    "image": "lakshya-shooting-club.jpg",
+    "website": "https://www.lakshyashootingclub.com"
+  }
+]
